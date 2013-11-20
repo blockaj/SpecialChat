@@ -1,0 +1,41 @@
+h1{text-align: center;}
+	#login
+	{
+		width: 300px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	body
+	{
+		background-image:url("tree_bark.png");
+	}
+	#chatView
+	{
+		background-color: rgba(142, 139, 139, 0.6);
+		width: 60%;
+		margin-left:auto;
+		margin-right: auto;
+		overflow-y: auto;
+		height: 60%;
+		border-radius: 3px;
+		padding-left: 25px;
+	}
+	#chatControls
+	{
+		width: 60%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 25px;
+	}
+	#textField
+	{
+		width: 80%;
+	}
+	username
+	{
+		color: blue;
+	}
+	message
+	{
+		color: green;
+	}
