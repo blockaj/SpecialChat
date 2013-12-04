@@ -1,0 +1,10 @@
+{
+	"name": "ChatServer",
+	"description": "A chat server with node.js and socket.io",
+	"version": "0.0.0",
+	"dependencies": {
+		"express": "*",
+		"socket.io" :"*",
+		"grunt-cli" : "*"
+	}
+}
